@@ -4,9 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "gulp"
   },
-  "author": "Vadym Prokopchuk",
+  "author": "Gordeeva Tatyana",
   "license": "ISC",
   "devDependencies": {
     "browser-sync": "^2.26.13",
